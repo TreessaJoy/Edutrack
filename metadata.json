@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack - Course & Placement System",
+  "description": "Comprehensive student course enrollment, learning progress tracker, and campus placement management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
